@@ -4,5 +4,5 @@
   uses: pavi2410/html-preview-action@v2
   with:
     # The HTML file you want to preview, relative to the root of the repo
-    html_file: index.html
+    html_file: starbucks.html
           
